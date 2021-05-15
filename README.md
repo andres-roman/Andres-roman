@@ -22,8 +22,6 @@ Here are some ideas to get you started:
     <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/For%20the%20love%20of%20code-Rust-brown?style=for-the-badge&logo=Rust"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andres-roman&label=Profile%20views&color=0e75b6&style=flat" alt="andres-roman" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andres-roman" alt="andres-roman" /></a> </p>
 
 - 🔭 I’m currently working on [Anarchy](https://github.com/andres-roman/anarchy)
